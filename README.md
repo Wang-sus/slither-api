@@ -8,6 +8,9 @@ Snake -
 =======================================
 Player Y Coordinate : ```snake.yy``` | **int** | <br>
 Player X Coordinate : ```snake.xx``` | **int** | <br>
+Player Size : ```snake.sc``` | **int** | <br>
+Player Swell : ```snake.swell``` | **int** | <br>
+Remove your eyes: ```snake.one_eye``` | **true/false** | <br>
 
 Server / Connection / Performance -
 ======================================
@@ -16,6 +19,7 @@ Current Server IP Address : ```window.bso.ip``` | **int** | <br>
 Current Server Port : ```window.bso.po``` | **int** | <br>
 FPS : ```window.fps``` | **int** | <br>
 High Quality : ```high_quality``` | **true/false** | <br>
+Lag Multiplier? : ```lag_mult``` | **int** | <br>
 
 
 Game Information -
