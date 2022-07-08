@@ -27,7 +27,9 @@ Game Information -
 Total Snakes in Current Game : ```snake_count``` | **int** | <br>
 Get Info Of Foods/Dots : ```snakes[]``` | **idk** | <br>
 Get Info Of Other Snakes : ```snakes[]``` | **idk** | <br>
-
+Start game : ```want_play``` | **true/false** | <br>
+change tips : ```tipss``` | **idk** | <br>
+testing : ```testing``` | **true/false** | <br>
 
 Misc / Unknown / Not Tested -
 ======================================
@@ -39,3 +41,9 @@ Unknown : ```sectors[]``` | **idk** | <br>
 Unknown : ```view_yy``` | **int** | <br>
 Unknown : ```view_xx``` | **idk** | <br>
 Unknown : ```eaten``` | **idk** | <br>
+
+
+Functions -
+======================================
+Show Game (not play) : ```startShowGame()``` | | <br>
+Speed up : ```setAcceleration(1)``` | **0 = false, 1 = true** | <br>
