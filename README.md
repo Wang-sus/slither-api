@@ -47,3 +47,4 @@ Functions -
 ======================================
 Show Game (not play) : ```startShowGame()``` | | <br>
 Speed up : ```setAcceleration(1)``` | **0 = false, 1 = true** | <br>
+Custom Server : ```forceServer("ip")``` | **ip = ip address of the server** | <br>
